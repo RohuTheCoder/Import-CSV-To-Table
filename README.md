@@ -6,6 +6,11 @@
 <li>Job Title</li>
 <li>Department</li>
 <li>Business Unit</li>
+<li>Gender</li>
+<li>Ethnicity</li>
+<li>Age</li>
+<li>Hire Date</li>
+<li>Annual Salary</li>
 <img src="sample images/csv.png" width="450">
 
 <p>Use the query tool in postgresql to copy the commands as given below</p>
