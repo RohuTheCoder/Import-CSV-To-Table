@@ -11,6 +11,10 @@
 <li>Age</li>
 <li>Hire Date</li>
 <li>Annual Salary</li>
+<li>Bonus%</li>
+<li>Country</li>
+<li>City</li>
+<li>Exit Date</li><br>
 <img src="sample images/csv.png" width="450">
 
 <p>Use the query tool in postgresql to copy the commands as given below</p>
