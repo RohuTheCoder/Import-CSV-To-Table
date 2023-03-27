@@ -15,6 +15,7 @@
 <li>Country</li>
 <li>City</li>
 <li>Exit Date</li><br>
+<p>Second, prepare a CSV data file with the above columns:</p>
 <img src="sample images/csv.png" width="450">
 
 <p>Use the query tool in postgresql to copy the commands as given below</p>
