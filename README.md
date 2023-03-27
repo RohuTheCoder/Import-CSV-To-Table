@@ -1,6 +1,6 @@
 # Import-csv-to-table
 <p>Hi, in this tutorial I am going to show you how I imported csv file to postgresql table using sql query.</p>
-<p>First, create a new table named company_data1 with the following columns:</p><br>
+<p>First, create a new table named company_data1 with the following columns:</p>
 <li>Employee ID</li>
 <li>Full Name</li>
 <li>Job Title</li>
